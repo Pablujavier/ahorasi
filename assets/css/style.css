@@ -1,0 +1,61 @@
+
+
+.caja-principal {
+    justify-content:space-between;
+    display: flex;
+}
+
+.caja1 {
+    display: flex;
+}
+
+.caja2 {
+    display: flex;
+}
+.caja3 {
+    display: flex;
+}
+
+.card {
+    margin: 20px;   
+}
+
+.card-group {
+    padding: 20px;
+}
+
+nav {
+    background-color: #28A745;
+}
+
+.card-footer {
+    text-align: right;
+}
+
+div > .titulo_color {
+    color:white;
+    
+}
+
+.verde {
+    color:green;
+}
+
+.tituloformulario {
+    text-align: center;
+    color:white
+}
+
+.fondo {
+    background-color:green;
+    padding: 30px;
+}
+
+.footer_titulo {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.footer_parrafo {
+    text-align: center;
+}
